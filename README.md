@@ -1,6 +1,6 @@
 **Investigating the Streamflow Simulation Capability of a New Mass-Conserving Long Short-Term Memory (MC-LSTM) Model at Eight Watersheds Across the Contiguous United States**
 
-Thank you for your interest in our research! 
+Full paper: https://doi.org/10.1016/j.jhydrol.2025.133161
 
 This repository contains the preliminary version of the code needed to reproduce our findings. Updates may follow to enhance the code's accuracy and functionality.
 
